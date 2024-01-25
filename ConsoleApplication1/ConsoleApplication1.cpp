@@ -5,54 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-     // asdasdasdasdasdasd
-     // asdasdasdasdasdasd
-     // asdasdasdasdasdasd
-     // asdasdasdasdasdasd
-     // asdasdasdasdasdasd
-     // asdasdasdasdasdasd
-     std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-     // asdasdasdasdasdasd
-     // asdasdasdasdasdasd
-     // asdasdasdasdasdasd
-     // asdasdasdasdasdasd
-     // asdasdasdasdasdasd
-    std::cout << "Hello World!\n";   std::cout << "Hello World!\n";   std::cout << "Hello World!\n";   std::cout << "Hello World!\n";   std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-
-
-    std::cout << "Hello World!\n";  std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";  std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-
-    std::cout << "Hello World!\n";  std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
+    
     std::cout << "Hello World!\n";
 }
 
