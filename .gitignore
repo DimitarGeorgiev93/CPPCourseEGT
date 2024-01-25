@@ -1,6 +1,7 @@
 # Ignore all files
 *
-
+# Unignore directories
+!*/
 # Except for .cpp and .h files
 !*.cpp
 !*.h
