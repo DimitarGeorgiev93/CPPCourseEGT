@@ -40,8 +40,8 @@ int main()
     admin.addTeam(&team2);
     match1.updateTeam1Score();
     match1.printMatchInfo();
-   // admin.printTeams();
-   // admin.removeTeam(&team2);
+    admin.printTeams();
+    admin.removeTeam(&team2);
    // admin.updateTeam(&team3);
    // admin.printTeams();
 
