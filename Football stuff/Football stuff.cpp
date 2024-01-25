@@ -42,7 +42,7 @@ int main()
     match1.printMatchInfo();
     admin.printTeams();
     admin.removeTeam(&team2);
-   // admin.updateTeam(&team3);
+    admin.updateTeam(&team3);
    // admin.printTeams();
 
     /*for (Team* t : admin.getTeams() ){
