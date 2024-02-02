@@ -8,6 +8,7 @@ class ExpressPackage :
 public:
     ExpressPackage(Adress, Adress, double, double, double);
     virtual void calculateCost();
+    virtual void print();
 private:
     double extraCost;
 };
