@@ -16,12 +16,12 @@ void freeVector(std::vector<Shape*>);
 
 int main()
 {
-    //drawingFigLoop();
+    drawingFigLoop();
 
-    Square a(5,1,1,'a');
-    Square b(10, 1, 1, 'a');
-    if (a > b) std::cout << "true";
-    else std::cout << "false";
+    //Square a(5,1,1,'a');
+    //Square b(10, 1, 1, 'a');
+    //if (a > b) std::cout << "true";
+    //else std::cout << "false";
     return 0;
 }
 
