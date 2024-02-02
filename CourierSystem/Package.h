@@ -14,7 +14,7 @@ public:
 	const std::string getReceiverName();
 	const std::string getReceiverPN();
 	const std::string getReceiverAdress();
-	void print();
+	virtual void print();
 	virtual void calculateCost();
 	const double getWeight();
 	const double getBasePrice();
