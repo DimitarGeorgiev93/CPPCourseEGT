@@ -30,15 +30,20 @@ std::vector<Employee*>* doItAll(const char* filename) {
 }
 
 void printAndDel(std::vector<Employee*>* employees) {
-    for (Employee* empl : *employees) {
-        empl->print();
-    };
-    /*for (Employee* empl : *employees) {
+    if (employees == nullptr) {
+        std::cout << "no elements" << std::endl;
+    }
+    else {
+        for (Employee* empl : *employees) {
+            empl->print();
+        }
+    }
+    /*for (Employee* empl : *employees) { // works
 
         delete empl;
         empl = nullptr;
     };*/
-    //deleteDynamicStuff(employees);
+    //deleteDynamicStuff(employees); // doesnt work, why?
 }
 
 void deleteDynamicStuff(std::vector<Employee*>* employees) {
