@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<LibraryData>
+	<Books>
+		<Book title="The Firm" year="1991" genre="Thriller">
+			<Author firstName="John" lastName="Grisham" nationality="USA" />
+		</Book>
+		<Book title="Book of Twilight" year="2018" genre="Poems">
+			<Author firstName="Pablo" lastName="Neruda" nationality="Chile" />
+		</Book>
+		<Book title="Jurassic Park" year="1990" genre="SciFi">
+			<Author firstName="Michael" lastName="Crichton" nationality="USA" />
+		</Book>
+	</Books>
+</LibraryData>

@@ -1,0 +1,33 @@
+{
+  "Books": [{
+      "title": "Harry Potter",
+      "year": 2001,
+      "genre": "Fantasy",
+      "Author": {
+        "firstName": "Joanne",
+        "lastName": "Rowling",
+        "nationality": "UK"
+      }
+    },
+    {
+      "title": "Small Gods",
+      "year": 1992,
+      "genre": "Fantasy",
+      "Author": {
+        "firstName": "Terry",
+        "lastName": "Pratchett",
+        "nationality": "UK"
+      }
+    },
+    {
+      "title": "It",
+      "year": 1986,
+      "genre": "Horror",
+      "Author": {
+        "firstName": "Stephen",
+        "lastName": "King",
+        "nationality": "USA"
+      }
+    }
+  ]
+}
